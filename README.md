@@ -5,4 +5,4 @@ Download the data and extract the images;
 Train and Test sets are given separately.
 Divide the Train set into 90:10(train:meta) split;
 Finally put the data into dataset/data_3split/
-Rub the experiments using exp.sh file.
+Run the experiments using exp.sh file.
